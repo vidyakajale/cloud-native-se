@@ -1,4 +1,4 @@
-After watching video, definitely I would like to make a case to add "Go/GoLang"  to the list of approved programming languages. To support my case, I will outline below points from video:
+After watching video, definitely I would like to make a case to add "Go/GoLang"  to the list of approved programming languages. To support my case, I will outline below points:
 
 Golang, also known as Go, is productive, scalable, and productive programming language in software industry. Go was designed to address the issues for while development of softwares at Google. Go makes the development environment efficient for its designers and developers. This makes it excellent tool for software engineering of large software projects. The language was designed for people who write, develop and maintain the large software applications.
 
