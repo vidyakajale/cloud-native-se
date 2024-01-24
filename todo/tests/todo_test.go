@@ -123,15 +123,6 @@ func TestAddRandomItem(t *testing.T) {
 
 }
 
-// TODO: Please delete this test from your submission, it does not do anything
-// but i wanted to demonstrate how you can starting shelling out your tests
-// and then implment them later.  The go testing framework provides a
-// Skip() function that just tells the testing framework to skip or ignore
-// this test function
-func TestAddPlaceholderTest(t *testing.T) {
-	t.Skip("Placeholder test not implemented yet")
-}
-
 //TODO: Create additional tests to showcase the correct operation of your program
 //for example getting an item, getting all items, updating items, and so on. Be
 //creative here.
