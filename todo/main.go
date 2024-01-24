@@ -60,15 +60,14 @@ const (
 //	 YOUR ANSWER:
 //Go  provides built-in package “flag” that simplifies the process of parsing command line flags.
 //With this package we can easily define, parse or access the flags in the applications
-//Flags can be defined as String, Integer or Boolean types.
-//Flag package allows to define flags with default values and help messages. Multiple types of flags are supported like boolean, integer, string etc.
-//Flag package simplifies the process of handlng the argument from command-line, when it comes to complex flag configurations.
+//Flags can be defined as String, Integer or Boolean types.Flag package allows to define flags with default values and help messages. Multiple types of flags are supported like boolean, integer, string etc.
+//Flag package simplifies the process of handling the argument from command-line, when it comes to complex flag configurations.
 //The flag package handles the parsing and validation of command-line arguments according to the defined flags.
 //For advanced features like flag parsing, validation, and help messages, the flag package is a good choice to go with.
-//Below code defines multiple flags, parse it and access  flags in code below when user passes the arguments from command line.Fflag is bind to a variable with StringVar etc.
+//Below code defines multiple flags, parse it and access  flags in code when user passes the arguments from command line. Flag is bind to a variable with StringVar etc.
 //flag.Parse() is used to parse the command-line flags and assign their values.
 // Before calling flag.Parse() , its important to define the flags.
-//Later part of code Loop over the flags and check which ones are set.
+//Later part of code loop over the flags and check which ones are set.
 
 func processCmdLineFlags() (AppOptType, error) {
 	flag.StringVar(&dbFileNameFlag, "db", "./data/todo.json", "Name of the database file")
