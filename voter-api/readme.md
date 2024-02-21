@@ -4,7 +4,7 @@ This is a demo application showing API's for voter-api
 
 
 Folders:
-    api-handler
+    api:    voter-api-handler
     voters:
     poll:
     votes:
