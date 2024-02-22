@@ -123,7 +123,9 @@ This is a describes application showing API's for voter-api
                      
                       
                       
-**Test cases Run:**                      
+**Test cases Run:**   
+
+Path: voter-api/tests/todo_test.go
 
 <img width="1230" alt="Screenshot 2024-02-21 at 9 41 14 PM" src="https://github.com/vidyakajale/cloud-native-se/assets/74523779/cb3a20ff-d489-4c91-89fa-05624dd50a1d">
 
