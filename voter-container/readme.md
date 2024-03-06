@@ -4,7 +4,7 @@
 To see everything you can do you can just run `make` and get help.  
 
 ```
-➜  todo-api git:(main) make
+➜  voter-api git:(main) make
 Usage make <TARGET>
 
   Targets:
